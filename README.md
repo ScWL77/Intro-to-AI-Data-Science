@@ -5,7 +5,7 @@ We were tasked to pick one of the four given datasets to tackle a problem statem
 
 # Dataset
 "What's cooking?" dataset  
-[More info on the Dataset](https://www.kaggle.com/competitions/whats-cooking/data)
+[More info](https://www.kaggle.com/competitions/whats-cooking/data)
   
 # Problem Statement
 For someone with dietary restrictions, which cuisine could be recommended to them?
